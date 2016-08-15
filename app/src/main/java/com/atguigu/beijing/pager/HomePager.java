@@ -25,7 +25,7 @@ public class HomePager extends BasePager {
     public void initData() {
         super.initData();
         //1.设置标题
-        tv_title.setText("主页面");
+        tv_title.setText("主页");
 
         //2.联网请求
 

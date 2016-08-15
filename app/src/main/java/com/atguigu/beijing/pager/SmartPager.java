@@ -30,6 +30,9 @@ public class SmartPager extends BasePager {
         textView.setTextSize(25);
         textView.setTextColor(Color.RED);
 
+        //1.设置标题
+        tv_title.setText("商城热卖");
+
         //添加到真布局
         fl_content.addView(textView);
 
