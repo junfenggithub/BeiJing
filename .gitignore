@@ -3,3 +3,11 @@
 build
 *.iml
 /local.properties
+.svn/
+SlidingMenu_library/
+app/libs/
+app/src/main/java/com/atguigu/beijing/utils/CatchUtils.java
+app/src/main/res/layout/activity_leftmenu.xml
+app/src/main/res/layout/activity_rightmenu.xml
+library/
+xutils_library/
